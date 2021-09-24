@@ -1,4 +1,4 @@
-<script src="https://unpkg.com/@shopify/app-bridge@2 "></script>
+<script src="https://unpkg.com/@shopify/app-bridge@2"></script>
 <script>
 var AppBridge = window['app-bridge'];
 var actions = window['app-bridge'].actions;
